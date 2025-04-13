@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyCleanArchitecture</string>
+
+    <string name="concatenate_two_string" translatable="false">%1$s %2$s</string>
+    <string name="concatenate_two_string_colon" translatable="false">%1$s : %2$s</string>
+    <string name="concatenate_two_string_hyphen" translatable="false">%1$s - %2$s</string>
+    <string name="concatenate_two_string_and">&lt;b>%1$s and %2$s&lt;/b></string>
+    <string name="concatenate_two_string_bold_first" translatable="false">&lt;b>%1$s&lt;/b> %2$s</string>
+    <string name="concatenate_two_string_bold_first_global" translatable="false"><![CDATA[<b>%1$s</b>%2$s]]></string>
+    <string name="concatenate_two_string_bold_second" translatable="false">%1$s &lt;b>%2$s&lt;/b></string>
+    <string name="concatenate_two_string_colon_bold_second" translatable="false">%1$s: &lt;b>%2$s&lt;/b></string>
+    <string name="concatenate_two_string_colon_no_space" translatable="false">%1$s: %2$s</string>
+    <string name="concatenate_two_string_comma" translatable="false">%1$s, %2$s</string>
+    <string name="concatenate_two_string_no_space" translatable="false">%1$s%2$s</string>
+    <string name="concatenate_two_string_slash" translatable="false">%1$s/%2$s</string>
+    <string name="concatenate_two_strings_middle_dot" translatable="false">%1$s • %2$s</string>
+</resources>
